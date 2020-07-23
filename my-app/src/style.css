@@ -1,0 +1,131 @@
+
+    .whatsapp-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+     
+    }
+
+    .fa-whatsapp {
+      margin-top: 16px;
+    }
+
+    .instagram-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+
+    .fa-instagram {
+      margin-top: 16px;
+    }
+
+    .twitter-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+
+    .fa-twitter {
+      margin-top: 16px;
+    }
+
+    .facebook-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+
+    .fa-facebook {
+      margin-top: 16px;
+    }
+
+    .linkedin-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+
+    .fa-linkedin {
+      margin-top: 16px;
+    }
+
+    .github-link 
+    {
+        color: black;
+        font-size: 25px;
+        z-index: 1000;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+
+    .fa-github {
+      margin-top: 16px;
+    }
+
+
+#text{
+  color: lightpink;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.amostra{
+    width: 60%;
+    color: palevioletred;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    overflow: auto;
+}
+
+.total{
+  margin-left: 7%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.imgs{
+  padding-top: 5%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.imgs1{
+  padding-top: 6.5%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.menu{
+width: 100%;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+
+.menus{
+ padding-left: 2%;
+}
