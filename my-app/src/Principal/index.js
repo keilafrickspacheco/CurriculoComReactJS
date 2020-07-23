@@ -82,7 +82,7 @@ function PagePrincipal() {
 	<div className="row">
         <div className="col-md-6" align="center">
         <br></br>
-        <h2> <p>Me chamo Keila Fricks Pacheco </p></h2><h3><p>Moro em</p><p>Rua Nossa senhora aparecida, nº40, Nova Bethania, Viana-ES</p><p> 28 992526573 </p><p>keyla.fricks@outlook.com</p></h3>
+        <h2> <p>Me chamo Keila Fricks Pacheco </p></h2><h3><p>Moro em</p><p>Rua Nossa senhora aparecida, nº40, Nova Bethania, Viana-ES</p><p> 28 992526573 </p> <p> 27 998904708 </p> <p>keyla.fricks@outlook.com</p></h3>
 	   <br></br>
        <br></br>
        <h3> <p> Tenho 23 anos, solteira, sem filhos. </p><p>Estou a procura de um emprego, busco experiência na área de tecnologia, visando o crescimento pessoal e o crescimento da organização.</p> <p>Junto a um bom atendimento ao cidadão.</p> </h3>
