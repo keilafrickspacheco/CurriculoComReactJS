@@ -1,1 +1,1 @@
-<h1> Curriculo feito com ReactJS </h1>
+<h1> Currículo feito com ReactJS. </h1>
